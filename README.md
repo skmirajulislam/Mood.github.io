@@ -21,7 +21,7 @@ Welcome to the Web Music Player App! This application allows users to play and e
 
 
 ## Test on laptop or desktop
-[Open here test the app](https://skmirajulislam.github.io/Mood.github.io/)
+[Open here test the app](https://skmirajulislam.github.io/MuscicDex/)
 
 
 ### Installation
